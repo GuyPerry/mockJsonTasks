@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Clean Room",
+    "isDone": true
+  },
+  {
+    "description": "Do Dishes",
+    "isDone": true
+  },
+  {
+    "description": "Fold Laundry",
+    "isDone": false
+  }
+]
